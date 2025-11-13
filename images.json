@@ -1,82 +1,112 @@
 {
     "images": [
         {
-            "imgPath": "/img/places/norml.png",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/places/bug.png",
+            "type": "Bug",
+            "description": "Bug types are often based on insects and tend to evolve early in games.",
+            "number of pokemon": 69
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/places/dark.png",
+            "type": "Dark",
+            "description": "Dark types were added to counter Psychic dominance and have sneaky moves.",
+            "number of pokemon": 89
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/places/dragon.png",
+            "type": "Dragon",
+            "description": "Dragon types are typically powerful with high base stats and iconic legendaries.",
+            "number of pokemon": 66
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/places/electric.png",
+            "type": "Electric",
+            "description": "Electric types are strong against Flying and commonly have high speed.",
+            "number of pokemon": 59
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/places/fairy.png",
+            "type": "Fairy",
+            "description": "Fairy types were introduced to balance Dragon types and often have healing moves.",
+            "number of pokemon": 47
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/places/fighting.png",
+            "type": "Fighting",
+            "description": "Fighting types excel at physical attacks and counter Normal and Rock types.",
+            "number of pokemon": 82
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/places/fire.png",
+            "type": "Fire",
+            "description": "Fire types are strong against Grass and Ice and often learn powerful special moves.",
+            "number of pokemon": 73
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/places/flying.png",
+            "type": "Flying",
+            "description": "Flying types are commonly paired as a secondary type and are immune to Ground.",
+            "number of pokemon": 101
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/places/ghost.png",
+            "type": "Ghost",
+            "description": "Ghost types are immune to Normal and Fighting and have eerie, spectral designs.",
+            "number of pokemon": 43
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
+            "imgPath": "img/places/grass.png",
+            "type": "Grass",
+            "description": "Grass types often use status and healing moves but commonly have many weaknesses.",
+            "number of pokemon": 102
         },
         {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
+            "imgPath": "img/places/ground.png",
+            "type": "Ground",
+            "description": "Ground types are immune to Electric attacks and often learn Earthquake as a staple move.",
+            "number of pokemon": 55
         },
         {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
+            "imgPath": "img/places/ice.png",
+            "type": "Ice",
+            "description": "Ice types are powerful offensively but suffer from several common weaknesses.",
+            "number of pokemon": 34
         },
         {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/places/norml.png",
+            "type": "Normal",
+            "description": "Normal types have diverse movepools but lack strong type advantages.",
+            "number of pokemon": 95
+        },
+        {
+            "imgPath": "img/places/poison.png",
+            "type": "Poison",
+            "description": "Poison types often inflict status effects and pair well with Fairy types.",
+            "number of pokemon": 54
+        },
+        {
+            "imgPath": "img/places/psychic.png",
+            "type": "Psychic",
+            "description": "Psychic types were extremely strong in early generations before many counters were added.",
+            "number of pokemon": 80
+        },
+        {
+            "imgPath": "img/places/rock.png",
+            "type": "Rock",
+            "description": "Rock types commonly boast high defense and are often found in mountainous areas.",
+            "number of pokemon": 58
+        },
+        {
+            "imgPath": "img/places/steel.png",
+            "type": "Steel",
+            "description": "Steel types have many resistances and are prized for their durability.",
+            "number of pokemon": 37
+        },
+        {
+            "imgPath": "img/places/water.png",
+            "type": "Water",
+            "description": "Water types are the most common and appear in a wide variety of forms and abilities.",
+            "number of pokemon": 141
         }
-  ]
+    ]
 }
