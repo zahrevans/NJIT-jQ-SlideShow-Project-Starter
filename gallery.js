@@ -76,3 +76,32 @@ function showPrevPhoto() {
   }
   swapPhoto();
 }
+
+let mTimer;
+// Starter code for the timer function
+function startTimer() {
+  // Create a timer to automatically call `showNextPhoto()` every mWaitTime milliseconds
+  // Consider using setInterval to achieve this functionality
+  // Hint: Make sure only one timer runs at a time
+  if (mTimer) {
+    clearInterval(mTimer);
+  }
+  mTimer = setInterval(() => {
+    showNextPhoto();
+  }, mWaitTime);
+}
+
+$(document).keydown(function (event) {
+  const key = event.key;
+  if (key === "ArrowRight" || key === " ") {
+    showNextPhoto();
+  } else if (key === "ArrowLeft") {
+    showPrevPhoto();
+  } else if (key === "ArrowDown") {
+    $(".moreIndicator").removeClass("rot90").addClass("rot270");
+    $(".details").slideDown();
+  } else if (key === "ArrowUp") {
+    $(".moreIndicator").removeClass("rot270").addClass("rot90");
+    $(".details").slideUp();
+  }
+});
