@@ -47,9 +47,9 @@ function swapPhoto() {
 
   let currentImage = mImages[mCurrentIndex];
   $("#photo").attr("src", currentImage.imgPath);
-  $(".location").text(`Make & Model: ${currentImage.imgLocation}`);
+  $(".location").text(`Type: ${currentImage.type}`);
   $(".description").text(`Description: ${currentImage.description}`);
-  $(".date").text(`Year Created: ${currentImage.date}`);
+  $(".date").text(`Year Created: ${currentImage.number}`);
 }
 
 
