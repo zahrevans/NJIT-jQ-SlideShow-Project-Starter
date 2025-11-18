@@ -47,9 +47,10 @@ function swapPhoto() {
 
   let currentImage = mImages[mCurrentIndex];
   $("#photo").attr("src", currentImage.imgPath);
+  $("#photo").css({ "max-width": "50%", });
   $(".location").text(`Type: ${currentImage.type}`);
   $(".description").text(`Description: ${currentImage.description}`);
-  $(".date").text(`Year Created: ${currentImage.number}`);
+  $(".date").text(`Number of Pokemon: ${currentImage.number}`);
 }
 
 

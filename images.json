@@ -3,110 +3,110 @@
         {
             "imgPath": "img/places/bug.png",
             "type": "Bug",
-            "description": "Bug types are often based on insects and tend to evolve early in games.",
-            "number": 69
+            "description": "Bug types are often based on insects and are known as the weaking type in the game.",
+            "number": 100
         },
         {
             "imgPath": "img/places/dark.png",
             "type": "Dark",
-            "description": "Dark types were added to counter Psychic dominance and have sneaky moves.",
-            "number": 89
+            "description": "Dark types were added to counter Psychic dominance and have more sinister moves.",
+            "number": 90
         },
         {
             "imgPath": "img/places/dragon.png",
             "type": "Dragon",
-            "description": "Dragon types are typically powerful with high base stats and iconic legendaries.",
-            "number": 66
+            "description": "Dragon types are typically powerful with high base stats and the type of most legendaries.",
+            "number": 94
         },
         {
             "imgPath": "img/places/electric.png",
             "type": "Electric",
-            "description": "Electric types are strong against Flying and commonly have high speed.",
-            "number": 59
+            "description": "Electric types are known for having some of the highest speed stats.",
+            "number": 87
         },
         {
             "imgPath": "img/places/fairy.png",
             "type": "Fairy",
-            "description": "Fairy types were introduced to balance Dragon types and often have healing moves.",
-            "number": 47
+            "description": "Fairy types were introduced to balance Dragon types and often have healing moves and high Special Attack.",
+            "number": 74
         },
         {
             "imgPath": "img/places/fighting.png",
             "type": "Fighting",
             "description": "Fighting types excel at physical attacks and counter Normal and Rock types.",
-            "number": 82
+            "number": 93
         },
         {
             "imgPath": "img/places/fire.png",
             "type": "Fire",
-            "description": "Fire types are strong against Grass and Ice and often learn powerful special moves.",
-            "number": 73
+            "description": "Fire types are strong against Grass and Ice and often learn some of the most powerful special moves.",
+            "number": 97
         },
         {
             "imgPath": "img/places/flying.png",
             "type": "Flying",
-            "description": "Flying types are commonly paired as a secondary type and are immune to Ground.",
-            "number": 101
+            "description": "Flying types are most commonly paired as a secondary type and are immune to Ground.",
+            "number": 134
         },
         {
             "imgPath": "img/places/ghost.png",
             "type": "Ghost",
-            "description": "Ghost types are immune to Normal and Fighting and have eerie, spectral designs.",
-            "number": 43
+            "description": "Ghost types are immune to Normal and Fighting and commonly have eerie, spectral designs.",
+            "number": 87
         },
         {
             "imgPath": "img/places/grass.png",
             "type": "Grass",
             "description": "Grass types often use status and healing moves but commonly have many weaknesses.",
-            "number": 102
+            "number": 147
         },
         {
             "imgPath": "img/places/ground.png",
             "type": "Ground",
-            "description": "Ground types are immune to Electric attacks and often learn Earthquake as a staple move.",
-            "number": 55
+            "description": "Ground types also known for their high offence they are also known for the common move earthquake being a competitive staple.",
+            "number": 90
         },
         {
             "imgPath": "img/places/ice.png",
             "type": "Ice",
-            "description": "Ice types are powerful offensively but suffer from several common weaknesses.",
-            "number": 34
+            "description": "Ice types are powerful offensively but suffer from several common weaknesses making them the glass cannon of the games.",
+            "number": 65
         },
         {
             "imgPath": "img/places/norml.png",
             "type": "Normal",
-            "description": "Normal types have diverse movepools but lack strong type advantages.",
-            "number": 95
+            "description": "Normal types are known for thier diversity to make up for their lackluster typing.",
+            "number": 153
         },
         {
             "imgPath": "img/places/poison.png",
             "type": "Poison",
-            "description": "Poison types often inflict status effects and pair well with Fairy types.",
-            "number": 54
+            "description": "Poison types often inflict status effects to make up for their lacking offenses.",
+            "number": 97
         },
         {
             "imgPath": "img/places/psychic.png",
             "type": "Psychic",
-            "description": "Psychic types were extremely strong in early generations before many counters were added.",
-            "number": 80
+            "description": "Psychic types used be be know as one of the strongest types in the game until the game was further balanced..",
+            "number": 135
         },
         {
             "imgPath": "img/places/rock.png",
             "type": "Rock",
-            "description": "Rock types commonly boast high defense and are often found in mountainous areas.",
-            "number": 58
+            "description": "Rock types are known for their balance between offence and defence but their moves having low accuracy.",
+            "number": 88
         },
         {
             "imgPath": "img/places/steel.png",
             "type": "Steel",
-            "description": "Steel types have many resistances and are prized for their durability.",
-            "number": 37
+            "description": "Steel types have many resistances and are known for their high defence.",
+            "number": 85
         },
         {
             "imgPath": "img/places/water.png",
             "type": "Water",
-            "description": "Water types are the most common and appear in a wide variety of forms and abilities.",
-            "number": 141
+            "description": "Water types are the most common type having the largest amount of pokemon for.",
+            "number": 176
         }
     ]
 }
